@@ -1,0 +1,36 @@
+.grid-container{
+    display: grid;
+    border: 2px solid black;
+    background-color: cyan;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+
+}
+
+.grid-item{
+    border: 1px solid red;
+
+
+}
+
+.item1{
+    background-color: blueviolet;
+
+}
+
+.item2{
+    background-color: yellow;
+    
+}
+.item3{
+    background-color: red;
+
+}
+.item4{
+    background-color: green;
+
+}
+.item5{
+    background-color:magenta;
+
+}
